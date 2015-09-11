@@ -1,0 +1,135 @@
+<div class="row-2-story-1">
+</div>
+<div class="row-2-story-2">
+</div>
+<div class="row-2-story-3">
+</div>
+<div>
+</div>
+<div>
+</div>
+<table style="width: 788px; height: 1401px; top: 24px; left: 83px;">
+    <!--style="margin:0% 10% 0 10%"-->
+    <tbody>
+        <tr>
+            <td colspan="2"> <!-- style="padding:0 10% 0 0; -->
+            <a href="#"> <img src="/s/1723/images/gid8/editor/placeholder1.jpg" class="story-one-picture" style="top: 4px;" width="513" height="357" vspace="1">
+            </a>
+            <h1 align="left" float="top" style="font-family:&quot;Helvetica&quot;">Headline Style 1</h1>
+            <p>
+            ~340 WORDS ---- text text text text text text text text text text tex tex text text text text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text  text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text  text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text</p>
+            <a href="#" class="read-more" style="color: red; text-decoration: none;" target="_blank">READ MORE</a>
+            </td>
+            <!-- Story 1 TEXT DIV END-->
+            <td style="padding:0 15px 0 15px;"><img src="/s/1723/images/gid8/editor/gift.png" alt="" style="" width="328" height="51"><br>
+            <h2 align="center" style="font-family:&quot;Helvetica&quot;">Make a gift</h2>
+            <p align="left">Private gifts create a margin of excellence for the school, support faculty research and innovation, and enhance learning experiences for students.</p>
+            <!--Right Sidebar story-ONE ENDS-->
+            <!--Right Sidebar story-TWO STARTS-->
+            <a href="#">
+            <img src="/s/1723/images/gid8/editor/screen_shot_2015-09-08_at_12.23.21_am.png" width="327" height="53">
+            </a>
+            <h2 align="center" style="font-family:&quot;Helvetica&quot;">Class Notes</h2>
+            <!-- story 2 part1 STARTS-->
+            <div>
+            <p align="left"><strong>Meg Crawford <span style="color: rgb(86, 160, 211);"> Class of 2014 </span></strong> </p>
+            <p align="left"> text text texgt text text text tex tex text text text text text text text text text </p>
+            <!-- story 2 part1 ENDS-->
+            </div>
+            <!-- story 2 part2 STARTS-->
+            <div style="border-top: 2px solid #dadac8">
+            <p align="left"><strong>Glenn Scott <span style="color: rgb(86, 160, 211);"> Class of 2006 </span></strong> </p>
+            <h5 align="left"><strong>Elon University, Associate Professor</strong></h5>
+            <p align="left"> text text texgt text text text tex tex text text text text text text text text text </p>
+            <!-- story 2 part2 ENDS-->
+            </div>
+            <!-- story 2 part3 STARTS-->
+            <div style="border-top: 2px solid #dadac8">
+            <p align="left"><strong>Jason Kilar <span style="color: rgb(86, 160, 211);"> Class of 1993 </span></strong> </p>
+            <p align="left"> text text texgt text text text tex tex text text text text text text text text text </p>
+            <!-- story 2 part3 ENDS-->
+            </div>
+            <!-- Right Sidebar story-TWO ENDS-->
+            <div class="class-notes-link-1>
+            <a href=" #"="" style="color: red; text-decoration: none; margin-bottom:5%;" target="_blank">VIEW MORE CLASS NOTES
+            </div>
+            <div class="class-notes-link-2>
+            <a href=" #"="" style="color: red; text-decoration: none" target="_blank">SUBMIT AN UPDATE
+            </div>
+            <!--Right Sidebar story-THREE STARTS-->
+            <a href="#">
+            <img src="/s/1723/images/gid8/editor/screen_shot_2015-09-08_at_12.23.32_am.png" style="" width="331" height="52">
+            </a>
+            <div>
+            <h2 align="center" style="padding-bottom:5px; font-family:&quot;Helvetica&quot;">Alumni directory</h2>
+            </div>
+            <!--     </div> <!--Right Sidebar story-THREE ENDS-->
+            <!--   </div> <!--Right Sidebar ENDS-->
+            <!--  </div> <!-- Top Fold ENDS-->
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:0 15px 0 15px;"><a href="#"></a>
+            <h3><img src="/s/1723/images/gid8/editor/septnesletterinlinecss.jpg" alt="people" style="border-top:15px solid #56A0D3" ""="" width="266" height="190"></h3>
+            <h3>Headline Style 2</h3>
+            <p>
+            text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text
+            </p>
+            <a href="#" class="read-more" style="color: red; text-decoration: none" target="_blank">READ MORE</a>
+            </td>
+            <td style="padding:0 15px 0 15px;"><a href="#"></a>
+            <h3><img src="/s/1723/images/gid8/editor/septnesletterinlinecss.jpg" alt="people" style="border-top:15px solid #56A0D3" width="266" height="190"></h3>
+            <h3>Headline Style 3</h3>
+            <p>
+            text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text
+            </p>
+            <a href="#" class="read-more" style="color: red; text-decoration: none" target="_blank">READ MORE</a></td>
+            <td style="padding:0 15px 0 15px;">
+            <h3><img src="/s/1723/images/gid8/editor/septnesletterinlinecss.jpg" alt="people" style="border-top:15px solid #56A0D3" width="265" height="180"></h3>
+            <h3>Headline Style 4</h3>
+            <p>text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text text text text&nbsp;t text text tex tex text text text text text text text text texttext text text text text text tex tex text text text&nbsp;&nbsp;&nbsp;</p>
+            <a href="#" class="read-more" style="color: red; text-decoration: none" target="_blank">READ MORE</a>
+            </td>
+            <!-- story 2 div ENDS-->
+            <!-- Story 1 TEXT DIV END-->
+        </tr>
+        <tr>
+            <td colspan="3">
+            <div class="story5" style="border-top: 2px solid #dadac8; border-bottom: 2px solid #dadac8; margin-top: 5%;"><!-- Story 5 Starts-->
+            <h6>Story 5&nbsp;</h6>
+            <p>
+            text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text text
+            </p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+            <div class="story6" style="border-bottom: 2px solid #dadac8"><!-- Story 5 Starts-->
+            <h6>Story 6</h6>
+            <p>
+            text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text text
+            </p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+            <div class="story7" style="border-bottom: 2px solid #dadac8"><!-- Story 5 Starts-->
+            <h6>Story 7</h6>
+            <p>text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text text text text text </p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+            <div class="story8" style="border-bottom: 2px solid #dadac8; margin-bottom: 5%;"><!-- Story 5 Starts-->
+            <h6>Story 8</h6>
+            <p>
+            text text text text text text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text texttext text text text text text tex tex text text text text text text text text text
+            </p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

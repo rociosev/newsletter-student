@@ -1,3 +1,7 @@
+<!-- header-->
+<img src="/s/1723/images/gid8/editor/header-student.png" alt="" style="" width="1019" height="177">
+<!-- header ends-->
+
 <div class="row-2-story-1">
 </div>
 <div class="row-2-story-2">
@@ -56,12 +60,14 @@
         <tr>
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px;">
-            <h6 style="margin-top:5px; margin-bottom:5px; font-family:Arial">Story 5&nbsp;</h6>
+            <!-- <h6 style="margin-top:5px; margin-bottom:5px; font-family:Arial">Story 5&nbsp;</h6>-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Arial">
-            text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text
-            </p>
-            </div>
-            </td>
+            <strong>Story5.   text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text
+            </strong></p>
+            <strong>
+            </strong></div>
+            <strong>
+            </strong></td>
         </tr>
         <tr>
             <td colspan="3">
@@ -94,7 +100,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Arial">
-            <strong>  Story 9.     text text text text text text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text t </strong>
+            <strong>  Story 9.     text text text text text text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text </strong>
             </p>
             </div>
             </td>
@@ -129,7 +135,7 @@
     </tbody>
 </table>
 
-<!--Footer with social media icons-->
+<!--Footer with social media icons  in HTML-->
 <div class="row header">
 <div style="position: relative; left: 0; top: 0;">
  <a href="http://unc.edu"> <img class="footer-main"src="footer_student.png" style="position: relative; top: 0; left: 0;"/></a>
@@ -146,3 +152,13 @@
 </div>
 </div>
 </div>
+
+<!-- footer in social media from iModules-->
+<map id="rade_img_map_1442261850251" name="rade_img_map_1442261850251">
+<area shape="RECT" coords="724,67,758,106" href="https://www.facebook.com/uncmjschool" target="_blank" alt="Facebook">
+<area shape="RECT" coords="764,67,812,107" href="https://twitter.com/UNCMJSchool" target="_blank">
+<area shape="RECT" coords="819,67,865,106" href="https://instagram.com/explore/locations/1002281400/">
+<area shape="RECT" coords="875,68,918,108" href="https://www.linkedin.com/edu/unc-school-of-media-and-journalism-176010">
+<area shape="RECT" coords="929,69,973,108" href="https://www.youtube.com/user/uncjschool">
+<area shape="RECT" coords="853,40,931,59" href="http://mj.unc.edu/">
+<area shape="RECT" coords="755,40,844,61" href="http://unc-chapelhill.imodules.com/?sid=1723&amp;gid=8&amp;pgid=37&amp;cid=51&amp;seiid=0&amp;ecatid=0&amp;puid="></map>

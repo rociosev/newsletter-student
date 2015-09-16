@@ -21,16 +21,16 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="2" style="text-align: right;">
             <p><!-- style="padding:0 10% 0 0;--><a href="#"> </a></p>
-            <p><a href="#"></a><a href="#"></a><img src="/s/1723/images/gid8/editor/placeholder1.jpg" class="story-one-picture" style="top: 228px;" width="507" height="467" vspace="1" padding-right="10%"><br>
+            <p><a href="#"></a><a href="#"></a><img src="/s/1723/images/gid8/editor/placeholder1.jpg" class="story-one-picture" style="top: 228px;" width="507" height="467" vspace="1" padding-right="10%" align="left"><br>
             </p>
             <p><a href="#">
             </a></p>
             <h1 align="left" float="top" style="font-family:&quot;Helvetica&quot;">Headline Style 1</h1>
-            <p style="font-family: Arial; padding-right: 10%;">
+            <p style="font-family: Arial; padding-right: 10%;" align="left">
             ~340 WORDS ---- text text text text text text text text text text text text text text text text text text text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text text</p>
-            <a href="http://mj.unc.edu/" class="read-more" target="_blank">READ MORE</a></td>
+            <strong><a href="http://mj.unc.edu/" class="read-more" target="_blank">READ MORE</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
             <td style="padding:0 15px 0 15px;">
             <p>&nbsp;</p>
             <p><a href="http://www.mj.unc.edu/careerservices" target="_blank"><img src="/s/1723/images/gid8/editor/screen_shot_2015-09-08_at_12.22.07_am.png" alt="" width="329" height="52"></a><br>
@@ -61,7 +61,7 @@
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px;">
             <!-- <h6 style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">Story 5&nbsp;</h6>-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong><a href="http://www.mj.unc.edu/">Story5. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
+            <a href="http://www.mj.unc.edu/">Story5. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></p>
             <strong>
             </strong></div>
             <strong>
@@ -71,7 +71,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px !important;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 6. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
+            <a href="http://www.mj.unc.edu/">Story 6. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<span style="font-family: Helvetica;"></span></a></p>
             </div>
             </td>
         </tr>
@@ -79,17 +79,15 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 7. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
-            <strong><strong>
-            </strong></strong></div>
-            <strong><strong>
-            </strong></strong></td>
+            <a href="http://www.mj.unc.edu/">Story 7. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<span style="font-family: Helvetica;"></span></a></p>
+            </div>
+            </td>
         </tr>
         <tr>
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 8. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
+            <a href="http://www.mj.unc.edu/">Story 8. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<span style="font-family: Helvetica;"></span></a></p>
             </div>
             </td>
         </tr>
@@ -97,7 +95,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong>  <a href="http://www.mj.unc.edu/">Story&nbsp;9. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
+            <a href="http://www.mj.unc.edu/">Story&nbsp;9. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<span style="font-family: Helvetica;"></span></a></p>
             </div>
             </td>
         </tr>
@@ -105,7 +103,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 10. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
+            <a href="http://www.mj.unc.edu/">Story 10. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<span style="font-family: Helvetica;"></span></a></p>
             </div>
             </td>
         </tr>
@@ -113,14 +111,14 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong><a href="http://mj.unc.edu/">Story 11<strong style="font-family: Helvetica;"></strong></a><strong style="font-family: Helvetica;"><a href="http://www.mj.unc.edu/">. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></strong><strong style="font-family: Helvetica;"></strong></strong></p>
+            <a href="http://mj.unc.edu/">Story 11<span style="font-family: Helvetica;"></span></a><span style="font-family: Helvetica;"><a href="http://www.mj.unc.edu/">. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></span><span style="font-family: Helvetica;"></span></p>
             </div>
             </td>
         </tr>
         <tr>
             <td colspan="3">
             <div class="story5" style="border-bottom: 2px solid #dadac8; border-top: 2px solid #dadac8; margin-bottom: 5%;">
-            <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica; text-decoration:none;"><strong><a href="http://www.mj.unc.edu/">Story 12. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></strong></p>
+            <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica; text-decoration:none;"><a href="http://www.mj.unc.edu/">Story 12. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></p>
             </div>
             </td>
         </tr>

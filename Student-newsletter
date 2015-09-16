@@ -1,34 +1,39 @@
-<!-- header-->
-<img src="/s/1723/images/gid8/editor/header-student.png" alt="" style="" width="1019" height="177">
-<!-- header ends-->
-<!-- E-mail body-->
 <div class="row-2-story-1">
 </div>
 <div class="row-2-story-2">
 </div>
 <div class="row-2-story-3">
 </div>
-<div>
-</div>
-<div>
-</div>
-&nbsp;
-<table style="width: 882px; height: 1055px; top: 24px; left: 83px;">
+<p><a href="http://mj.unc.edu/"><img src="/s/1723/images/gid8/editor/header-student.png" alt="" style="" width="926" height="177"></a><br>
+</p>
+<p>
+</p>
+<table style="width: 941px; height: 1164px; top: 202px; left: 83px;">
     <!--style="margin:0% 10% 0 10%"-->
     <tbody>
         <tr>
+            <td colspan="3">
+            <p><!-- style="padding:0 10% 0 0;--><a href="#"> </a></p>
+            <p>
+            </p>
+            <p><a href="#">
+            </a></p>
+            </td>
+        </tr>
+        <tr>
             <td colspan="2">
             <p><!-- style="padding:0 10% 0 0;--><a href="#"> </a></p>
-            <p><a href="#"><img src="/s/1723/images/gid8/editor/placeholder1.jpg" class="story-one-picture" style="top: 4px;" width="513" height="357" vspace="1"></a><br>
+            <p><a href="#"></a><a href="#"></a><img src="/s/1723/images/gid8/editor/placeholder1.jpg" class="story-one-picture" style="top: 228px;" width="507" height="467" vspace="1" padding-right="10%"><br>
             </p>
             <p><a href="#">
             </a></p>
             <h1 align="left" float="top" style="font-family:&quot;Helvetica&quot;">Headline Style 1</h1>
-            <p style="font-family: Arial">
+            <p style="font-family: Arial; padding-right: 10%;">
             ~340 WORDS ---- text text text text text text text text text text text text text text text text text text text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text text  text text text text text text text text text</p>
             <a href="http://mj.unc.edu/" class="read-more" target="_blank">READ MORE</a></td>
             <td style="padding:0 15px 0 15px;">
-            <p><a href="http://www.mj.unc.edu/careerservices" target="_blank"><img src="/s/1723/images/gid8/editor/screen_shot_2015-09-08_at_12.22.07_am.png" alt="" style="" width="329" height="52"></a><br>
+            <p>&nbsp;</p>
+            <p><a href="http://www.mj.unc.edu/careerservices" target="_blank"><img src="/s/1723/images/gid8/editor/screen_shot_2015-09-08_at_12.22.07_am.png" alt="" width="329" height="52"></a><br>
             </p>
             <h2 align="center" style="font-family:&quot;Helvetica&quot;"><a href="http://www.mj.unc.edu/careerservices">CAREER SERVICES</a></h2>
             <p align="left" style="font-family: Arial">Private gifts create a margin of excellence for the school, support faculty research and innovation, and enhance learning experiences for students.</p>
@@ -39,11 +44,11 @@
             <p align="left" style="font-family: Arial"> text text text text text text  text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text text text text</span></p>
             </div>
             <!--Right Sidebar story-THREE STARTS-->
-            <h2 align="center" style="font-family:&quot;Helvetica&quot;"><a href="http://mj.unc.edu/careerservices"></a><a href="http://www.park.mj.unc.edu/" target="_blank"><img src="/s/1723/images/gid8/editor/park_library.png" style="" width="328" height="54"></a><a href="http://www.park.mj.unc.edu/" target="_blank">PARK LIBRARY</a></h2>
+            <h2 align="center" style="font-family:&quot;Helvetica&quot;"><a href="http://mj.unc.edu/careerservices"></a><a href="http://parklibrary.mj.unc.edu/" target="_blank"><img src="/s/1723/images/gid8/editor/park_library.png" style="" width="328" height="54"></a><a href="http://parklibrary.mj.unc.edu/" target="_blank">PARK LIBRARY</a></h2>
             <p align="left" style="font-family: Arial">Private gifts create a margin of excellence for the school, support faculty research and innovation, and enhance learning experiences for students.</p>
             <div>
             <h2 align="center" style="padding-bottom:5px; font-family:&quot;Helvetica&quot;"><a href="http://mj.unc.edu/"></a><a href="http://www.mj.unc.edu/" target="_blank"><img src="/s/1723/images/gid8/editor/connect.png" alt="" style="" width="328" height="51"></a><a href="http://www.mj.unc.edu/" target="_blank">CONNECT</a></h2>
-            <p align="center" style="padding-bottom:5px; font-family:&quot;Arial&quot;"><span style="font-family: Arial;">text text text text text text text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text text text text&nbsp;<span style="text-align: -webkit-center; font-family: Arial;">text text text text text text text text text text text text text text</span></span></span></span><br>
+            <p align="center" style="padding-bottom:5px; font-family:&quot;Arial&quot;"><span style="font-family: Arial;">text text text text text text text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text<span style="text-align: -webkit-center; font-family: Arial;">text</span><span style="text-align: -webkit-center; font-family: Arial;">text text text text text text text text text text text text text text text<span style="font-family: Arial;">text text text text text text text text text text text text&nbsp;</span></span> <span style="text-align: -webkit-center; font-family: Arial;">text</span><span style="text-align: -webkit-center; font-family: Arial;">text text text text text text <span style="font-family: Arial;">&nbsp;</span></span></span></span></span><br>
             </p>
             </div>
             <!--     </div> <!--Right Sidebar story-THREE ENDS-->
@@ -56,8 +61,7 @@
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px;">
             <!-- <h6 style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">Story 5&nbsp;</h6>-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong><a href="http://www.mj.unc.edu/">Story5.   text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text</a>
-            </strong></p>
+            <strong><a href="http://www.mj.unc.edu/">Story5. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             <strong>
             </strong></div>
             <strong>
@@ -67,8 +71,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px !important;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 6.  text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text</a>  </strong>
-            </p>
+            <strong> <a href="http://www.mj.unc.edu/">Story 6. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             </div>
             </td>
         </tr>
@@ -76,7 +79,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8; margin-top:1px;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 7.     text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text</a> <strong> </strong></strong></p>
+            <strong> <a href="http://www.mj.unc.edu/">Story 7. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             <strong><strong>
             </strong></strong></div>
             <strong><strong>
@@ -86,7 +89,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;"><!-- Story 5 Starts-->
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 8.      text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text</a>  </strong> </p>
+            <strong> <a href="http://www.mj.unc.edu/">Story 8. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             </div>
             </td>
         </tr>
@@ -94,8 +97,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong>  <a href="http://www.mj.unc.edu/">Story 9.     text text text text text text text text text text text text text text text text text text texttext text text text text text  text text text text text text text text texttext text text text text</a> </strong>
-            </p>
+            <strong>  <a href="http://www.mj.unc.edu/">Story&nbsp;9. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             </div>
             </td>
         </tr>
@@ -103,8 +105,7 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 10.    text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text</a>  </strong>
-            </p>
+            <strong> <a href="http://www.mj.unc.edu/">Story 10. &nbsp; 250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<strong style="font-family: Helvetica;"></strong></a></strong></p>
             </div>
             </td>
         </tr>
@@ -112,47 +113,21 @@
             <td colspan="3">
             <div class="story5" style="border-top: 2px solid #dadac8;">
             <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong><a href="http://www.mj.unc.edu/">Story 11.  text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text text text text</a>  </strong>
-            </p>
+            <strong><a href="http://mj.unc.edu/">Story 11<strong style="font-family: Helvetica;"></strong></a><strong style="font-family: Helvetica;"><a href="http://www.mj.unc.edu/">. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></strong><strong style="font-family: Helvetica;"></strong></strong></p>
             </div>
             </td>
         </tr>
         <tr>
             <td colspan="3">
             <div class="story5" style="border-bottom: 2px solid #dadac8; border-top: 2px solid #dadac8; margin-bottom: 5%;">
-            <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica">
-            <strong> <a href="http://www.mj.unc.edu/">Story 12.    text text text text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text texttext text text</a></strong>
-            </p>
+            <p style="margin-top:5px; margin-bottom:5px; font-family:Helvetica; text-decoration:none;"><strong><a href="http://www.mj.unc.edu/">Story 12. &nbsp;250 characters text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</a></strong></p>
             </div>
             </td>
         </tr>
     </tbody>
 </table>
-
-<!--Footer with social media icons  in HTML-->
-<div class="row header">
-<div style="position: relative; left: 0; top: 0;">
- <a href="http://unc.edu"> <img class="footer-main"src="footer_student.png" style="position: relative; top: 0; left: 0;"/></a>
-  <div class="social-media-box">
-  <a href="http://www.facebook.com"><img class="footer-facebook" src="folder/facebook_image.png" height=24px; width=10px; style="position: absolute; top: 50px; left: 570px;"/></a>
-<img class="footer-line" src="folder/line_image1.png" height=24px; width=1px; style="position: absolute; top: 50px; left: 590px;"/>
-<a href="http://www.twitter.com"><img class="footer-twitter" src="folder/twitter_image.png" height=24px; width=25px; style="position: absolute; top: 50px; left: 600px;"/></a>
-<img class="footer-line" src="folder/line_image1.png" height=24px; width=1px; style="position: absolute; top: 50px; left: 630px;"/>
-<a href="http://www.instagram.com"><img class="footer-instagram" src="folder/instagram_image.png" height=24px; width=20px; style="position: absolute; top: 50px; left: 640px;"/></a>
-<img class="footer-line" src="folder/line_image1.png" height=24px; width=1px; style="position: absolute; top: 50px; left: 670px;"/>
-<a href="http://www.linkedin.com"><img class="footer-linkedin" src="folder/linkedin_image.png" height=24px; width=20px; style="position: absolute; top: 50px; left: 680px;"/></a>
-<img class="footer-line" src="folder/line_image1.png" height=24px; width=1px; style="position: absolute; top: 50px; left: 710px;"/>
-<a href="http://www.youtube.com"><img class="footer-youtube" src="folder/youtube_image.png" height=24px; width=20px; style="position: absolute; top: 50px; left: 720px;"/></a>
-</div>
-</div>
-</div>
-
-<!-- footer in social media from iModules-->
-<map id="rade_img_map_1442261850251" name="rade_img_map_1442261850251">
-<area shape="RECT" coords="724,67,758,106" href="https://www.facebook.com/uncmjschool" target="_blank" alt="Facebook">
-<area shape="RECT" coords="764,67,812,107" href="https://twitter.com/UNCMJSchool" target="_blank">
-<area shape="RECT" coords="819,67,865,106" href="https://instagram.com/explore/locations/1002281400/">
-<area shape="RECT" coords="875,68,918,108" href="https://www.linkedin.com/edu/unc-school-of-media-and-journalism-176010">
-<area shape="RECT" coords="929,69,973,108" href="https://www.youtube.com/user/uncjschool">
-<area shape="RECT" coords="853,40,931,59" href="http://mj.unc.edu/">
-<area shape="RECT" coords="755,40,844,61" href="http://unc-chapelhill.imodules.com/?sid=1723&amp;gid=8&amp;pgid=37&amp;cid=51&amp;seiid=0&amp;ecatid=0&amp;puid="></map>
+<p>&nbsp;<img src="/s/1723/images/gid8/editor/footer_actual.png" alt="" style="" width="939" height="132"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<map id="rade_img_map_1442433068380" name="rade_img_map_1442433068380">
+<area shape="RECT" coords="12,11,882,178" href="http:"></map>

@@ -15,6 +15,7 @@
 }</style><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <div class="container" style="background: #ffffff" ;="">
 <div class="row-2-story-1" style="background:#ffffff">
 </div>
@@ -138,17 +139,23 @@
     </tbody>
 </table>
 <p>
-<img id="Image-Maps-Com-image-maps-2015-09-21-154003" src="http://www.image-maps.com/m/private/0/8ebdss10so1p4vsmnarth48au3_footer.png" border="0" width="980" height="132" orgWidth="980" orgHeight="132" usemap="#image-maps-2015-09-21-154003" alt="" />
+<img id="Image-Maps-Com-image-maps-2015-09-21-154003" src="http://www.image-maps.com/m/private/0/8ebdss10so1p4vsmnarth48au3_footer.png" border="0" width="980" height="132" orgwidth="980" orgheight="132" usemap="#image-maps-2015-09-21-154003" alt="">
 <map name="image-maps-2015-09-21-154003" id="ImageMapsCom-image-maps-2015-09-21-154003">
-<area  alt="" title="" href="https://www.facebook.com/uncmjschool" shape="rect" coords="705,68,715,108" style="outline:none;" target="_self"     />
-<area  alt="" title="" href="https://twitter.com/UNCMJschool" shape="rect" coords="745,69,770,109" style="outline:none;" target="_self"     />
-<area  alt="" title="" href="https://instagram.com/uncmjschool/" shape="rect" coords="795,68,820,108" style="outline:none;" target="_self"     />
 
-<area  alt="" title="" href="https://www.linkedin.com/edu/school?id=176010" shape="rect" coords="850,67,880,107" style="outline:none;" target="_self"     />
+<area  alt="" title="" href="http://unc.us7.list-manage.com/unsubscribe?u=0c240f39418a2baed85c14674&id=d8af74ef39&e=0704a8f7d2&c=77cf3923fd" shape="rect" coords="722,38,808,58" style="outline:none;" target="_self"     />
 
-<area  alt="" title="" href="https://www.youtube.com/user/uncjschool" shape="rect" coords="900,67,950,107" style="outline:none;" target="_self"     />
+<area  alt="" title="" href="http://mj.unc.edu" shape="rect" coords="820,36,890,56" style="outline:none;" target="_self"     />
 
-<area shape="rect" coords="970,130,980,132" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
+
+<area alt="" title="" href="https://www.facebook.com/uncmjschool" shape="rect" coords="705,68,715,108" style="outline:none;" target="_self"></area>
+<area alt="" title="" href="https://twitter.com/UNCMJschool" shape="rect" coords="745,69,770,109" style="outline:none;" target="_self"></area>
+<area alt="" title="" href="https://instagram.com/uncmjschool/" shape="rect" coords="795,68,820,108" style="outline:none;" target="_self"></area>
+
+<area alt="" title="" href="https://www.linkedin.com/edu/school?id=176010" shape="rect" coords="850,67,880,107" style="outline:none;" target="_self"></area>
+
+<area alt="" title="" href="https://www.youtube.com/user/uncjschool" shape="rect" coords="900,67,950,107" style="outline:none;" target="_self"></area>
+
+
 </map>
 
 
@@ -179,5 +186,5 @@
                     </tr>
                 </table>
 
-            </center>
-         </div>
+            
+         </p></div>
